@@ -1,5 +1,7 @@
 
-# 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell)
+# jacky-100-Days-Of-ML-Code
+
+ 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell)
 
 在我所學習的內容中，主要參考的大師則是[Avik Jain](https://github.com/Avik-Jain)，而在github中也有中文版可以看，若是英文不好的朋友們可以去研究一下。
 
